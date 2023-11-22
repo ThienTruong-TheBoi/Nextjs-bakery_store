@@ -1,0 +1,32 @@
+.us-wrap{
+    min-height: 496px;
+    text-align: center;
+    margin: 0 120px;
+    padding: 60px 16px;
+}
+.us-h{
+    font-size: 3rem;
+
+}
+.us-gt{
+    line-height: 2rem;
+    font-size: 1.6rem;
+    text-align: justify;
+
+}
+.us-group{
+    font-size: 1.5rem;
+    justify-content: space-between;
+    display: flex;
+}
+
+.us-name{
+    font-weight: 700;
+
+}
+
+.us-img{
+    margin-top: 10px;
+    border-radius: 50%;
+
+}

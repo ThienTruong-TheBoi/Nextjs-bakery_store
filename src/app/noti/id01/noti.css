@@ -1,0 +1,29 @@
+.noti-wrap {
+    min-height: 496px;
+    display: flex;
+
+}
+
+.noti__img {
+    width: 350px;
+    height: 350px;
+
+}
+
+.noti-detail {
+    padding-left: 15px;
+    flex: 1;
+
+}
+.noti_title {
+    line-height: 3.4rem;
+    font-size: 2.4rem;
+    margin: 0;
+
+}
+.noti__content {
+    text-align: justify;
+    font-size: 1.4rem;
+    line-height: 2rem;
+
+}
